@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm #**Priyatharsini Sivalingam**!<br><br>- 🌱 I'm currently working on **Full Stack Development**<br>- 🤝 I'm looking to collaborate on **Full Stack Development**<br>- 🔍 I'm exploring new things and constantly learning<br>- 💻 Currently learning: **Java, MERN Stack, ASP.NET, Machine Learning, Deep Learning**<br>- 🎬 Fun fact: I enjoy watching movies<br>
+👋 Hi, I'm # **Priyatharsini Sivalingam**!<br><br>- 🌱 I'm currently working on **Full Stack Development**<br>- 🤝 I'm looking to collaborate on **Full Stack Development**<br>- 🔍 I'm exploring new things and constantly learning<br>- 💻 Currently learning: **Java, MERN Stack, ASP.NET, Machine Learning, Deep Learning**<br>- 🎬 Fun fact: I enjoy watching movies<br>
 
 
 ## 🌐 Socials:
