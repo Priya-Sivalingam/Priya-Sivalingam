@@ -1,5 +1,5 @@
 # 💫👋 Hi, I'm **Priyatharsini Sivalingam**<br>
-<br>- 🌱 I'm currently working on **Full Stack Development**<br>- 🤝 I'm looking to collaborate on **Full Stack Development**<br>- 🔍 I'm exploring new things and constantly learning<br>- 💻 Currently learning: **Java, MERN Stack, ASP.NET, Machine Learning, Deep Learning**<br>- 🎬 Fun fact: I enjoy watching movies<br> <br> [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://65b67aee2ddcf9729eabc5aa--genuine-moonbeam-892a8e.netlify.app/) <br>
+ <br> [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://65b67aee2ddcf9729eabc5aa--genuine-moonbeam-892a8e.netlify.app/) <br>
 
 
 ## 🌐 Socials:
