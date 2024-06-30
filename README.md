@@ -1,4 +1,4 @@
-q# 💫👋 Hi, I'm **Priyatharsini Sivalingam**<br>
+# 💫👋 Hi, I'm **Priyatharsini Sivalingam**<br>
 
 ## 🌐 Socials:
 <br> [![My Website](https://img.shields.io/badge/Mywebsite-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://65b67aee2ddcf9729eabc5aa--genuine-moonbeam-892a8e.netlify.app/)
