@@ -1,6 +1,6 @@
 # 💫👋 Hi, I'm **Priyatharsini Sivalingam**<br>
 
-I'm a passionate Software Developer skilled in various technologies, from backend development to machine learning. I enjoy building innovative solutions and working with both frontend and backend technologies to create efficient, user-friendly applications.I love continuously learning and improving my craft.
+I'm a passionate Software Engineer skilled in various technologies, from backend development to machine learning. I enjoy building innovative solutions and working with both frontend and backend technologies to create efficient, user-friendly applications.I love continuously learning and improving my craft.
 
 ## 🌐 Socials:
 <br> [![My Website](https://img.shields.io/badge/Mywebsite-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://668517f3efca7ece04ec77e2--polite-bubblegum-7c14a1.netlify.app/)
