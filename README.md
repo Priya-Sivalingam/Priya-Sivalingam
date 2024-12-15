@@ -3,8 +3,12 @@
 I'm a passionate Software Engineer skilled in various technologies, from backend development to machine learning. I enjoy building innovative solutions and working with both frontend and backend technologies to create efficient, user-friendly applications.I love continuously learning and improving my craft.
 
 ## 🌐 Socials:
-<br> [![My Website](https://priya-sivalingam.github.io/priyatharsinisivalingam/)](https://668517f3efca7ece04ec77e2--polite-bubblegum-7c14a1.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/priyatharsinis) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@priyasivalingam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25043487) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Priyasivalingam) 
+<br> 
+[![My Website](https://priya-sivalingam.github.io/priyatharsinisivalingam/)](https://668517f3efca7ece04ec77e2--polite-bubblegum-7c14a1.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyatharsinis)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@priyasivalingam)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25043487)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Priyasivalingam)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
