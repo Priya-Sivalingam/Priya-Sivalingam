@@ -1,6 +1,6 @@
 # 💫👋 Hi, I'm **Priyatharsini Sivalingam**<br>
 
-I'm a passionate Software Engineer skilled in various technologies, from backend development to machine learning. I enjoy building innovative solutions and working with both frontend and backend technologies to create efficient, user-friendly applications.I love continuously learning and improving my craft.
+Passionate Software Engineer with experience in SAP S/4HANA as a SAP Technical Consultant, along with freelance software development projects. Skilled in ABAP development, .NET backend development, and full-stack technologies, with a strong interest in building efficient, scalable, and user-friendly applications. Enthusiastic about learning new technologies and continuously improving technical skills.
 
 ## 🌐 Socials:
 <br> [![My Website](https://img.shields.io/badge/Mywebsite-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://priya-sivalingam.github.io/priyatharsinisivalingam/)
